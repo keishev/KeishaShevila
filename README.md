@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Keisha Shevila</h1>
-<h3 align="center">A passionate frontend developerComputer Science (Big Data) Student | Aspiring Software Engineer | Building Solutions for Real-World Problems from India</h3>
+<h3 align="center">A passionate frontend developerComputer Science (Big Data) Student | Aspiring Software Engineer | Building Solutions for Real-World Problems from Indonesia</h3>
 
 - 🔭 I’m currently working on **Food Diary and Diabetes Management Application**
 
